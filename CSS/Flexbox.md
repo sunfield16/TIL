@@ -33,7 +33,7 @@ Flexboxは一次元のレイアウト配置を支援する機能。
 フレックスコンテナに`flex-direction`を設定することで、  
 主軸を指定することが可能。
 
-`column`で横方向（左から右）、`row`で縦方向（上から下）が主軸になる。
+`column`で縦方向（上から下）、`row`で横方向（左から右）が主軸になる。
 
 `column-reverse`と`row-reverse`もあり、  
 それぞれレイアウトの整列方向を反転（右から左など）させることが可能。
@@ -50,9 +50,9 @@ Flexboxは一次元のレイアウト配置を支援する機能。
 .hoge
 {
     display: flex;
-    /* 横方向 */
-    flex-direction: column; 
     /* 縦方向 */
+    flex-direction: column; 
+    /* 横方向 */
     flex-direction: row; 
 }
 ```
