@@ -15,3 +15,13 @@ Prefabから生成したGameObjectの設定を直接変えると、そこがPref
 
 それをPrefabのもともとの設定に戻すこともできるし、逆にそのGameObjectに行った変更をPrefab側に適用することも可能。
 （Prefab側に適用すると、そのGameObjectすべてに同じ設定が入るので注意が必要）
+
+## Prefabファイルの中身
+Prefabは`.prefab`ファイルとして生成される。  
+[[YAML]]形式で記述されていて、これをパースすれば  
+各オブジェクトの定義や付随するコンポーネントの内容などが確認できる。
+
+### 参考
+https://blog.unity.com/ja/engine-platform/understanding-unitys-serialization-language-yaml
+
+https://qiita.com/satanabe1@github/items/515f206659177883c7f4
