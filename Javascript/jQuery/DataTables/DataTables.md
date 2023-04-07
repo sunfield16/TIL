@@ -60,3 +60,18 @@ $(document).ready(function () {
     const test_table = $('#test-table').DataTable();
 });
 ```
+
+## 翻訳
+DataTablesで生成されるUIは基本的に英語になっているが、翻訳用のjsonを読み込ませることで  
+ローカライズが可能。（もちろん日本語化も）
+
+```javascript
+const test_table = $('#test_table').DataTable({
+    language:{
+        url: "[jsonを配置したパス、もしくはURL]"
+    }
+});
+```
+
+有志によって各言語で翻訳が進められており、  
+[公式サイト](https://datatables.net/plug-ins/i18n/)には各言語で使えるjsonが用意されている。
