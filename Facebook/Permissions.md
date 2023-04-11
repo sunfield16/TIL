@@ -1,4 +1,4 @@
-アクセス許可（Permissions）は、アプリが[GraphAPI](/Facebook/GraphAPI)で  
+アクセス許可（Permissions）は、アプリが[GraphAPI](/Facebook/GraphAPI.md)で  
 データにアクセスするための認証形態。
 
 アプリでFacebookSDKを使用するにあたって、扱うデータに応じて  
@@ -12,7 +12,7 @@
 
 ## アプリレビュー
 一部を除き、アクセス許可を付与する場合には  
-Facebookの[アプリレビュー](/Facebook/Developer/AppReview)を申請しなければならない。
+Facebookの[アプリレビュー](/Facebook/Developer/AppReview.md)を申請しなければならない。
 
 不要なアクセス許可を付与しようとしたりすると、申請が通らない原因になる。
 
