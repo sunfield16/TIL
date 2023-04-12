@@ -21,3 +21,10 @@ APIエンドポイントへのアクセスをテストする時に使う。
 ### Advanced
 全てのユーザーに対して有効になる。
 アクセス許可や機能の種類によっては[アプリレビュー](/Facebook/Developer/AppReview.md)が必要になることもある。
+
+また、2023/05/01以降から、このアクセスレベルを使う場合には  
+[ビジネス認証](/Facebook/Developer/Business.md)が必要になる模様。
+
+## 参考
+https://developers.facebook.com/docs/graph-api/overview/access-levels  
+https://developers.facebook.com/docs/development/release/business-verification
