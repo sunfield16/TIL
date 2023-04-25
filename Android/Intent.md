@@ -11,7 +11,7 @@
 
 基本的には自分のアプリ内でアクティビティやサービスを起動するのに使われる。
 
-![[IntentImage.jpg]]
+![](./image/IntentImage.jpg)
 
 ### 暗黙的インテント
 具体的なコンポーネントを指定するのではなく、**実行する操作** を指定して  
@@ -38,3 +38,40 @@ PendingIntentは作成したIntentをラップして生成できる。
 
 * 指定した時間になると実行されて、通知を行う（AndroidのAlarmManagerが実行する）
   - ゲームアプリでスタミナが全回復した時の通知など
+
+PendingIntentは元のアプリが強制終了しても、それを渡した先のアプリでは引き続き使用できる。
+
+### PendingIntentを作成する
+例として、AlarmManagerを使って何かしらのPendingIntentを一定時間後に起動させる。
+```java
+Context con = activity.getApplicationContext();
+
+// IntentをもとにPendingIntentを作成
+Intent intent = new Intent(con, HogeBroadcast.class);
+PendingIntent pendingIntent = PendingIntent.getBroadcast(
+								con, 
+								1, 
+								intent, 
+								PendingIntent.FLAG_ONE_SHOT | PendingIntent.FLAG_IMMUTABLE);
+
+// AlarmManagerでPendingIntentを1時間後に起動させる
+AlarmManager alarmMgr = (AlarmManager)act.getSystemService(Activity.ALARM_SERVICE);  
+alarmManager.set(AlarmManager.ELAPSED_REALTIME, 60 * 60 * 1000, pendingIntent);
+```
+
+PendingIntentを渡す先によってメソッドを変える必要がある。  
+どれも引数は同じ。
+```java
+PendingIntent.getActivity() // アクティビティ
+PendingIntent.getService()  // サービス
+PendingIntent.getBroadcast()// ブロードキャストレシーバー
+```
+
+### フラグ引数
+flagsでPendingIntentの振る舞いを指定できる。  
+ビットフラグになっていて、複数指定も可能。
+
+* FLAG_MUTABLE ... 作成元でなくてもPendingIntentの中身を変更できる
+* FLAG_IMMUTABLE ... 作成元以外はPendingIntentの中身を変更できない
+* FLAG_ONE_SHOT ... このPendingIntentは1回だけ使用できる
+* FLAG_UPDATE_CURRENT ... もし同じPendingIntent（`Extra`が違うだけ）が複数存在する場合、今回作成するIntentの`Extra`に設定したデータで置き換える
