@@ -5,6 +5,12 @@
 grep -e "hoge" -e "fuga" ./test.txt
 ```
 
+`-E`で1つにまとめるのも可能。  
+（正確には`-E`は正規表現を適用するためのオプションだが）
+```bash
+grep -E "hoge|fuga" ./test.txt
+```
+
 ### and検索
 andはgrep1回ではできないので、素直にパイプでつなげる。
 ```bash
