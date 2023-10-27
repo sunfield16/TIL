@@ -20,6 +20,12 @@ SearchBuilderはDataTablesの拡張機能の1つ。
 [公式サイト](https://datatables.net/download/)からダウンロードする時に、  
 Extensionで指定しておくと追加でダウンロードできる。  
 
+### 日付を扱う場合の注意
+テーブルで日付を扱う場合、別のExtensionである`DateTime`も  
+一緒にダウンロードする必要がある模様。
+
+https://datatables.net/forums/discussion/76107/searchbuilder-requires-datetime-when-used-with-dates
+
 ## 基本の使い方
 一般的なテーブル内検索機能を追加するだけであれば、初期化時に以下を指定するだけでOK。
 ```javascript
