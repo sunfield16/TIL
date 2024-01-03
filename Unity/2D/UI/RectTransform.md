@@ -19,3 +19,20 @@ Canvas内で(400,300)の位置にUIを配置する必要がある。
 ## Pivot
 画像の中で、回転やスケーリングの中心点を設定する。  
 Anchorとはまた違った概念。
+
+## RectTransformのParent
+`RectTransform`の親オブジェクトを変更する場合、必ず`SetParent`を使うようにする必要あり。
+```csharp
+// こっちを呼ぶ
+transform.SetParent(parentObject, false)
+
+// これはダメ（警告が出る）
+transform.parent = parentObject;
+```
+以下のような警告が出る。
+```
+Parent of RectTransform is being set with parent property.
+Consider using the SetParent method instead, with the worldPositionStays argument set to false.
+This will retain local orientation and scale rather than world orientation and scale, 
+which can prevent common UI scaling issues.
+```
