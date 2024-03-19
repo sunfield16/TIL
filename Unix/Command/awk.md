@@ -124,6 +124,20 @@ cat "test.txt" | awk '
 # foo!
 ```
 
+### 最初と最後に実行するアクション
+パターンに`BEGIN`や`END`を指定すると、  
+読み込みの最初と最後にそれぞれアクションを実行できる。
+```bash
+echo "hoge" | awk '
+BEGIN { print "begin" }
+{ print $0 }
+END  { print "end" }'
+
+# 出力
+# begin
+# hoge
+# end
+```
 ## 組み込み変数
 awkにはあらかじめ定義されている変数があり、スクリプト内で使用可能。
 
@@ -141,3 +155,56 @@ echo "5:6,7:8" | awk -F '[:,]' '{ print $NF }'
 # 出力
 8
 ```
+
+
+## 演算
+スクリプト内で四則演算が可能。
+```bash
+echo "10,20,30" | awk -F ',' '{ print $1 + $2 + $3 }'
+# 出力
+60
+```
+
+## 変数の使用
+スクリプト内で変数を定義できる。  
+これを利用して集計などが可能。
+```bash
+# 入力テキスト(test.txt)
+# 10
+# 20
+# 30
+
+cat "test.txt" | awk -F ',' '
+BEGIN { sum = 0 }
+{ sum = sum + $1 }
+END { print sum }'
+
+# 出力
+# 60
+```
+
+## 条件式
+条件式による分岐も可能。  
+パターンに記述することで、特定のフィールドの値に応じた集計もできる。
+```bash
+# 入力テキスト(test.txt)
+# hoge,10
+# hoge,20
+# fuga,25
+# fuga,70
+# hoge,5
+
+# hogeの行だけを集計
+cat "test.txt" | awk -F ',' '
+BEGIN { sum = 0 }
+$1 == "hoge" { sum = sum + $1 }
+END { print sum }'
+
+# 出力
+# 35
+```
+
+
+## 参考
+https://qiita.com/tofu511/items/3ecf9c5361d08b5c6eae  
+https://qiita.com/hnishi/items/4ee60ed515470e796f41
