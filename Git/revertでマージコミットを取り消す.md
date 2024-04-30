@@ -33,6 +33,6 @@ git revert -m 2 xxxxxxxx
 
 ### イメージ
 （Gitコミットツリーのイメージ）
-![](./image/RevertMerge.png)
+![](Git/image/RevertMerge.png)
 * 1を指定 ... Cの状態に戻るコミットができる（E,Fのコミット分が取り消される）
 * 2を指定 ... Fの状態に戻るコミットができる（Cのコミット分が取り消される）
