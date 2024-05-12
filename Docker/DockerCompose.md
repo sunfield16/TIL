@@ -5,15 +5,15 @@ Dockerでは1つのコンテナを起動するにも様々な設定をつける�
 これをCLI上で毎回指定するのはミスの可能性もあり危険なので、  
 基本的にはdocker-composeを使用することになる。  
 
-docker-composeはymlファイルであるため、バージョン管理も簡単。
+docker-composeは[YAML](/Serialization/YAML.md)ファイルであるため、バージョン管理も簡単。
 
 また、起動するコンテナが1つだけでも問題なく使用可能。  
 （むしろ1つだけでも、これを使った方が簡単に設定確認・起動ができると思われる）
 
 ## 基本の使い方
+ファイル名は`compose.yaml`が[推奨されている](https://docs.docker.com/compose/compose-application-model/)。  
 下記のような形式で作成する。
 ```yml
-version: [docker-composeのバージョン指定]
 services:
   [コンテナ名]:
     ~このコンテナ用の設定~
