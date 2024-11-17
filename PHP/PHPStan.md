@@ -1,6 +1,6 @@
 ## 参考
-https://zenn.dev/tadsan/articles/00bf49f8ec2f16  
-https://qiita.com/rowpure/items/e1aa3384c903e7a335ec
+<https://zenn.dev/tadsan/articles/00bf49f8ec2f16>  
+<https://qiita.com/rowpure/items/e1aa3384c903e7a335ec>
 
 ## PHPStan
 PHPStanはPHPの静的解析ツールの1つ。  
@@ -43,7 +43,7 @@ CI等で使う場合は設定ファイルを用意するのが良い。
 
 ## 設定ファイル
 設定ファイルは`.neon`という拡張子のファイルで指定する。  
-中身は[yaml](/Serialization/YAML.md)形式で記述可能。
+中身は[[YAML|yaml]]形式で記述可能。
 
 また、ファイル内のパス指定は設定ファイルがあるディレクトリからの相対パスになる。
 

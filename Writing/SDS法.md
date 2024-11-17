@@ -26,7 +26,7 @@
 ## メリット
 * 最初に要約が来るため、スピーディーな情報伝達をしやすい
 * 詳細が整理しやすく、相手に伝わりやすい
-* [PREP法](/Writing/PREP法.md)などと比べた場合に短く済みやすい
+* [[PREP法]]などと比べた場合に短く済みやすい
 
 ## デメリット
 * 1つの要点について説明する形なので、かなり詳細な情報を伝えるのには適さない
@@ -42,5 +42,5 @@
 * 商品の説明文
 
 ## 参考
-https://qiita.com/pyon_kiti_jp/items/c5148ec26b5bb00c200e  
-https://go.chatwork.com/ja/column/efficient/efficient-447.html#efficient-447_4
+<https://qiita.com/pyon_kiti_jp/items/c5148ec26b5bb00c200e>  
+<https://go.chatwork.com/ja/column/efficient/efficient-447.html#efficient-447_4>

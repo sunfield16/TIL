@@ -1,4 +1,4 @@
-https://qiita.com/toRisouP/items/86fea641982e6e16dac6#unirxtriggers%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA
+<https://qiita.com/toRisouP/items/86fea641982e6e16dac6#unirxtriggers%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA>
 
 UniRxで、Unityの基本的なコールバックを`IObservable`として取得する機能。  
 基本的には`XxxAsObservable`のようなメソッドが拡張で追加されている。
@@ -16,7 +16,7 @@ Destroyされたときにも`OnComplete`は自動で発行されるので寿命�
 
 
 ## Triggersによるメリット
-https://qiita.com/toRisouP/items/30c576c7b0a99f41fb87#2update%E3%82%92%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88
+<https://qiita.com/toRisouP/items/30c576c7b0a99f41fb87#2update%E3%82%92%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88>
 
 Updateなどを`IObservable`で扱うメリットは以下のようなものがあるとされる。
 

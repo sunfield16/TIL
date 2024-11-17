@@ -1,6 +1,6 @@
-https://ja.wikipedia.org/wiki/Getting_Things_Done  
-https://qiita.com/YutaManaka/items/a1c917951b1ef00d76e2  
-https://asana.com/ja/resources/getting-things-done-gtd
+<https://ja.wikipedia.org/wiki/Getting_Things_Done>  
+<https://qiita.com/YutaManaka/items/a1c917951b1ef00d76e2>  
+<https://asana.com/ja/resources/getting-things-done-gtd>
 
 `Get Things Done`の略で、タスク管理やタイムマネジメントで使用する手法の1つ。
 

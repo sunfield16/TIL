@@ -18,10 +18,10 @@ Prefabから生成したGameObjectの設定を直接変えると、そこがPref
 
 ## Prefabファイルの中身
 Prefabは`.prefab`ファイルとして生成される。  
-[YAML](/Serialization/YAML.md)形式で記述されていて、これをパースすれば  
+[[YAML]]形式で記述されていて、これをパースすれば  
 各オブジェクトの定義や付随するコンポーネントの内容などが確認できる。
 
 ### 参考
-https://blog.unity.com/ja/engine-platform/understanding-unitys-serialization-language-yaml
+<https://blog.unity.com/ja/engine-platform/understanding-unitys-serialization-language-yaml>
 
-https://qiita.com/satanabe1@github/items/515f206659177883c7f4
+<https://qiita.com/satanabe1@github/items/515f206659177883c7f4>

@@ -1,5 +1,5 @@
-https://vrm.dev/gltf/
-https://knowledge.shade3d.jp/knowledgebase/gltf%E3%81%A8%E3%81%AF
+<https://vrm.dev/gltf/>
+<https://knowledge.shade3d.jp/knowledgebase/gltf%E3%81%A8%E3%81%AF>
 
 `GL Transmission Format`の略で、オープンソースの3Dフォーマット。  
 OpenGLの仕様を策定している`KHRONOS`によって策定された。

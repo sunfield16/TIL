@@ -1,7 +1,7 @@
 ## 参考資料
-https://dev.mysql.com/doc/refman/5.6/ja/time-zone-support.html
+<https://dev.mysql.com/doc/refman/5.6/ja/time-zone-support.html>
 
-https://unrealman.hatenablog.com/entry/mysql-timezone
+<https://unrealman.hatenablog.com/entry/mysql-timezone>
 
 ## MySQLのタイムゾーン設定
 MySQLには3つのタイムゾーン設定がある。

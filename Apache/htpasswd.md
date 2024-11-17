@@ -1,4 +1,4 @@
-[.htaccess](Apache/htaccess.md)でBasic認証を導入する時に設置が必要なファイル。    
+[[htaccess|.htaccess]]でBasic認証を導入する時に設置が必要なファイル。    
 ここに書かれているIDとパスワードを入力することでアクセスができるようになる。
 
 以下のようにIDとパスワードを並べて記載するが、パスワードは暗号化が必要。
@@ -10,7 +10,7 @@ id:password
 ```
 
 ## `.htpasswd`の作成
-https://analyzegear.co.jp/blog/1881
+<https://analyzegear.co.jp/blog/1881>
 
 生成するWebサービスがいくつかあるほか、  
 `htpasswd`コマンドで作成できる。（Macにもある）

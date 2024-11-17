@@ -1,4 +1,4 @@
-[Telnet](/Network/Telnet.md)で接続して諸々確認したい時に使う。  
+[[Telnet]]で接続して諸々確認したい時に使う。  
 以下のようにechoから繋げることでワンライナーにすることが可能。
 ```bash
 (echo "stats"; sleep 0.5s;) | telnet localhost 11211
@@ -49,6 +49,6 @@ flush_all
 ```
 
 ## 参考
-https://github.com/memcached/memcached/wiki/Commands  
-https://changineer.info/server/nosql/nosql_memchached_commands01.html  
-https://qiita.com/TatsuNet/items/5c89a2dbce57be28aef7
+<https://github.com/memcached/memcached/wiki/Commands>  
+<https://changineer.info/server/nosql/nosql_memchached_commands01.html>  
+<https://qiita.com/TatsuNet/items/5c89a2dbce57be28aef7>

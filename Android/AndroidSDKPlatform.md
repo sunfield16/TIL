@@ -1,4 +1,4 @@
-https://developer.android.com/tools/releases/platforms?hl=ja
+<https://developer.android.com/tools/releases/platforms?hl=ja>
 
 AndroidStudioのSDK Managerからダウンロードできる  
 SDKパッケージ群。
@@ -16,7 +16,7 @@ TargetSDKVersionの指定に合わせて必要といった感じ？
 * デバイス: それぞれに対応したエミュレータが使える
 	- Wear OS, Google TV, etc...
 * Google APIs: GooglePlay開発者サービスが使える
-	- https://developers.google.com/android/guides/overview?hl=ja
+	- <https://developers.google.com/android/guides/overview?hl=ja>
 * GooglePlay : GooglePlayストアをインストールしたエミュレータが使える
 	- 課金確認などをしたい場合は必要
 

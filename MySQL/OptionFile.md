@@ -21,7 +21,7 @@ ${HOME}/.mylogin.cnf | ログインパスオプション
 `ini`の形式で記載する。
 
 ### 設定例
-[公式サイト](https://dev.mysql.com/doc/refman/5.6/ja/option-files.html)に  
+[公式サイト](<https://dev.mysql.com/doc/refman/5.6/ja/option-files.html)に>  
 上がっている例を記載する。
 
 ```ini

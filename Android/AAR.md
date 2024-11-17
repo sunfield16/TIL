@@ -1,4 +1,4 @@
-https://developer.android.com/studio/projects/android-library?hl=ja
+<https://developer.android.com/studio/projects/android-library?hl=ja>
 
 `Android ARchive`の略で、Androidのリソースや  
 Manifestファイルを含めることができるパッケージファイル。

@@ -18,7 +18,7 @@ A, B, Cそれぞれに固有のUUIDが生成される。
 このUUIDはアプリを再インストールしても変わらない。  
 
 生成用のライブラリがMITライセンスで公開されている。  
-https://github.com/akisute/UIApplication-UIID
+<https://github.com/akisute/UIApplication-UIID>
 
 ### 取得できるIDのイメージ
 ※どちらの場合でも、アプリを再インストールでIDは変わらない。
@@ -40,8 +40,8 @@ UIID
 | アプリC | ggg | hhh | iii |
 
 ## 参考資料
-https://tanamon.hatenablog.jp/entry/20120924/1348491831
+<https://tanamon.hatenablog.jp/entry/20120924/1348491831>
 
-https://sites.google.com/site/aoi68k/home/ge-tiid-uuid-udidno-qu-de
+<https://sites.google.com/site/aoi68k/home/ge-tiid-uuid-udidno-qu-de>
 
-https://akisute.com/2011/08/udiduiid.html
+<https://akisute.com/2011/08/udiduiid.html>

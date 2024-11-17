@@ -20,4 +20,4 @@ falseの場合でも、同じアプリ内や同じユーザーIDのアプリ（�
 Android12以降では、インテントフィルタを使用しているActivityやServiceは  
 必ず`android:exported`を明示的に指定する必要がある。
 
-https://developer.android.com/about/versions/12/behavior-changes-12#exported
+<https://developer.android.com/about/versions/12/behavior-changes-12#exported>

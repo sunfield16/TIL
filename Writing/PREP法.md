@@ -10,5 +10,5 @@
 主にプレゼンやセミナーなどで説明する際の文章に使われる。
 
 ## 参考
-https://qiita.com/pyon_kiti_jp/items/c5148ec26b5bb00c200e  
-https://qiita.com/y_catch/items/70ac2ad543a1d7e751b0
+<https://qiita.com/pyon_kiti_jp/items/c5148ec26b5bb00c200e>  
+<https://qiita.com/y_catch/items/70ac2ad543a1d7e751b0>

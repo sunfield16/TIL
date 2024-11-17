@@ -1,6 +1,6 @@
-https://leancoffee.org/  
-https://tech.smartcamp.co.jp/entry/introduce-lean-coffee  
-https://note.com/mihokm/n/n718d5b89aaf1
+<https://leancoffee.org/>  
+<https://tech.smartcamp.co.jp/entry/introduce-lean-coffee>  
+<https://note.com/mihokm/n/n718d5b89aaf1>
 
 「アジェンダのないMTG」とも呼ばれる会議形式。  
 MTGの時間内で、アジェンダを決めて議論する流れを効果的に行うことができる。

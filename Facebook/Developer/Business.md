@@ -15,6 +15,6 @@
 管理者のアカウントが正式な代表者であることなどを確認する。
 
 ## 参考
-https://developers.facebook.com/docs/marketing-api/reference/business/v5.0  
-https://developers.facebook.com/docs/development/release/business-verification  
-https://www.facebook.com/business/help/1095661473946872?id=180505742745347
+<https://developers.facebook.com/docs/marketing-api/reference/business/v5.0>  
+<https://developers.facebook.com/docs/development/release/business-verification>  
+<https://www.facebook.com/business/help/1095661473946872?id=180505742745347>

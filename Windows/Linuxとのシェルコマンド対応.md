@@ -14,5 +14,5 @@ WindowsのシェルコマンドはLinuxと異なるものが多い。
 
 
 ## 参考
-https://www.akkodis.co.jp/candidate/insight/column_28  
-https://learn.microsoft.com/ja-jp/windows-server/administration/windows-commands/windows-commands
+<https://www.akkodis.co.jp/candidate/insight/column_28>  
+<https://learn.microsoft.com/ja-jp/windows-server/administration/windows-commands/windows-commands>

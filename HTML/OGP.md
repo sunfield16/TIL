@@ -13,4 +13,4 @@ Webサイト内には様々なページがあるが、面倒くさがって全�
 システム上でうまく対処することが重要。
 
 ## 参考
-https://seolaboratory.jp/64252/
+<https://seolaboratory.jp/64252/>

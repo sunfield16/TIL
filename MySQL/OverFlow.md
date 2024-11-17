@@ -1,7 +1,7 @@
 ## 範囲外の値
 MySQLの設定によって、範囲外の値が指定された場合の処理は異なる。
 
-* [厳密なSQLモード](/MySQL/厳密モード.md)が適用されている場合
+* [[厳密モード|厳密なSQLモード]]が適用されている場合
   - エラーになり、データの更新に失敗する
 * 制限の強いモードが適用されていない場合
   - カラムの型に収まる範囲で、指定の値にもっとも近くなるように丸めて更新される
@@ -18,4 +18,4 @@ select 9223372036854775807 + 1
 
 ## 参考資料
 11.2.6 範囲外およびオーバーフローの処理  
-https://dev.mysql.com/doc/refman/5.6/ja/out-of-range-and-overflow.html
+<https://dev.mysql.com/doc/refman/5.6/ja/out-of-range-and-overflow.html>

@@ -1,5 +1,5 @@
-https://www.r-pics.com/success/column/_18.html  
-https://dev.classmethod.jp/articles/moscow/
+<https://www.r-pics.com/success/column/_18.html>  
+<https://dev.classmethod.jp/articles/moscow/>
 
 主にプロダクトの要件を整理する時に使われる手法。  
 要件の重要度を4段階に分けて、対応するかどうかを判断する。

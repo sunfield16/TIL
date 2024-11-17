@@ -1,6 +1,6 @@
 # WorkManager
 ## WorkManagerとは
-Androidの[バックグラウンド処理を行う各種ライブラリ](./バックグラウンド処理.md)を、  
+Androidの[[./バックグラウンド処理.md|バックグラウンド処理を行う各種ライブラリ]]を、  
 設定に応じて内部で使い分けて非同期処理（タスク処理）を実現してくれるAPIクラス。
 
 今までは種類が多くて分かりづらい状態だった非同期処理ライブラリだが、  
@@ -44,7 +44,7 @@ dependencies {
 }
 ```
 
-参考:<https://developer.android.com/jetpack/androidx/releases/work#declaring_dependencies>
+参考:<<https://developer.android.com/jetpack/androidx/releases/work#declaring_dependencies>>
 
 ### Workerを作る
 `Worker`は、実際に実行したい内容を表現する。  

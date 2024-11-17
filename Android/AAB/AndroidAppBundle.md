@@ -1,5 +1,5 @@
 ## 参考資料
-[Android App Bundle について](https://developer.android.com/guide/app-bundle)
+[Android App Bundle について](<https://developer.android.com/guide/app-bundle)>
 
 ## Android App Bundle(AAB)とは
 アプリのコード(コンパイル済み)と各種リソースが含まれたファイル。

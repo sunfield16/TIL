@@ -1,5 +1,5 @@
 入力された内容を、行・バイト単位で分割する。  
-[cut](/Unix/Command/cut.md)は横の分割なのに対して、splitは縦の分割といった感じ。
+[[cut]]は横の分割なのに対して、splitは縦の分割といった感じ。
 
 ## 基本の使い方
 ```bash
@@ -22,4 +22,4 @@ split -n l/3 hoge.txt
 ```
 
 ## 参考
-https://qiita.com/b-mente/items/0a57e65687d67b4ac582
+<https://qiita.com/b-mente/items/0a57e65687d67b4ac582>

@@ -17,6 +17,6 @@ DFD(Data Flow Diagram)から派生して登場したとされる。
   - 成果物と分けるかは好みによる
 
 ## 参考
-https://note.com/smartcamp_design/n/n1afea5e0a46d  
-https://www.cresco.co.jp/blog/entry/13977.html  
-https://asana.com/ja/resources/process-flow
+<https://note.com/smartcamp_design/n/n1afea5e0a46d>  
+<https://www.cresco.co.jp/blog/entry/13977.html>  
+<https://asana.com/ja/resources/process-flow>

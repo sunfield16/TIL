@@ -1,6 +1,6 @@
 ## 参考
-https://qiita.com/yasuaki640/items/9684d450613a1c6d0234  
-https://phpinsights.com/get-started.html
+<https://qiita.com/yasuaki640/items/9684d450613a1c6d0234>  
+<https://phpinsights.com/get-started.html>
 
 ## PHPInsight
 `PHPInsight`はPHPの静的解析ツールの1つ。  

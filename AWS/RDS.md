@@ -21,7 +21,7 @@ RDBのセットアップ・運用・スケーリング・負荷監視等、DB管
 * PostgreSQL
 * Oracle
 * Microsoft SQL Server
-* [Amazon Aurora](./Aurora.md)
+* [[Aurora|Amazon Aurora]]
   - AWSが提供するRDBエンジン
 
 # 用語

@@ -1,4 +1,4 @@
-https://qiita.com/toRisouP/items/86fea641982e6e16dac6#reactiveproperty%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA
+<https://qiita.com/toRisouP/items/86fea641982e6e16dac6#reactiveproperty%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA>
 
 普通の「変数」にSubjectの機能を追加したもの。  
 変数の値を書き換えるとOnNextが発行される。

@@ -34,4 +34,4 @@ TEST_DIRS = $(wildcard ./*.cpp)
 
 
 ## 参考
-https://tex2e.github.io/blog/makefile/functions
+<https://tex2e.github.io/blog/makefile/functions>

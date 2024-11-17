@@ -18,7 +18,7 @@
 std::vector<int> hoge = {1, 2, 3, 4, 5, 6, 7, 8};
 
 // 「偶数かどうか」で切り分け
-auto partitionIt = std::partition(hoge.begin(), hoge.end(), [](int value)
+auto partitionIt = std::partition(hoge.begin(), hoge.end(), [[int value]]
 {
   return (value % 2) == 0;
 });

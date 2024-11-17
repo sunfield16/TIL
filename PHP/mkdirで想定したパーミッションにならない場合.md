@@ -14,7 +14,7 @@ echo($perm.PHP_EOL);
 ```
 
 ## 原因
-この`mkdir`関数は、設定している[umask](/Unix/Command/umask.md)の影響を受ける。
+この`mkdir`関数は、設定している[[umask]]の影響を受ける。
 
 umaskには多くの場合デフォルトで`022`が指定されているため、  
 パーミッションにマスクがかかり想定したものと異なるパーミッションになる。
@@ -47,5 +47,5 @@ mkdir(__DIR__."/hoge", 0777);
 ```
 
 ## 参考
-https://www.php.net/manual/ja/function.mkdir.php  
-https://nodoame.net/archives/5400
+<https://www.php.net/manual/ja/function.mkdir.php>  
+<https://nodoame.net/archives/5400>

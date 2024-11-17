@@ -92,5 +92,5 @@ Particleの生成を止めたいときは、`Stop()`で制御する。
 * 2つのカーブの数値の範囲でランダム
 
 ## 参考
-https://docs.unity3d.com/ja/current/Manual/PartSysMainModule.html  
-https://qiita.com/abcde_kind/items/e47a8f0c0f1077b314e6
+<https://docs.unity3d.com/ja/current/Manual/PartSysMainModule.html>  
+<https://qiita.com/abcde_kind/items/e47a8f0c0f1077b314e6>

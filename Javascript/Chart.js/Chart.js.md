@@ -1,4 +1,4 @@
-https://www.chartjs.org/docs/latest/
+<https://www.chartjs.org/docs/latest/>
 
 Javascriptでグラフ類を表示するライブラリの1つ。  
 

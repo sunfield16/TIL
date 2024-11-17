@@ -1,5 +1,5 @@
-https://www.chartjs.org/docs/latest/general/data-structures.html  
-https://qiita.com/fsd-ssk/items/f2c0faad04f690bcaed7
+<https://www.chartjs.org/docs/latest/general/data-structures.html>  
+<https://qiita.com/fsd-ssk/items/f2c0faad04f690bcaed7>
 
 Chart.jsに渡すデータはいくつかの形式が使える。
 

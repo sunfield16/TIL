@@ -1,5 +1,5 @@
-https://developer.mozilla.org/ja/docs/Web/HTML/Viewport_meta_tag  
-https://gmotech.jp/semlabo/seo/blog/howto-viewport/
+<https://developer.mozilla.org/ja/docs/Web/HTML/Viewport_meta_tag>  
+<https://gmotech.jp/semlabo/seo/blog/howto-viewport/>
 
 metaタグで指定できる要素の一つで、Webページを見られる表示領域を表す。  
 ブラウザでWebページを開いたとき表示されている範囲がviewport。
