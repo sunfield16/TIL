@@ -48,7 +48,7 @@ val()で取得・設定 <- 太文字
 
 
 ## 参考
-https://api.jquery.com/html/#html  
-https://api.jquery.com/text/#text  
-https://api.jquery.com/val/#val  
-https://narunaru7638.hatenablog.com/entry/2019/04/13/002524
+<https://api.jquery.com/html/#html>  
+<https://api.jquery.com/text/#text>  
+<https://api.jquery.com/val/#val>  
+<https://narunaru7638.hatenablog.com/entry/2019/04/13/002524>

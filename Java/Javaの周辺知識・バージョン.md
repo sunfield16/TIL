@@ -1,9 +1,9 @@
 ## 参考
-https://www.sejuku.net/blog/12902
+<https://www.sejuku.net/blog/12902>
 
-https://www.fenet.jp/java/column/java_beginner/6180/
+<https://www.fenet.jp/java/column/java_beginner/6180/>
 
-https://qiita.com/nowokay/items/c1de127354cd1b0ddc5e
+<https://qiita.com/nowokay/items/c1de127354cd1b0ddc5e>
 
 ## Java SE
 `Java Platform, Standard Edition`の略で、多くのJavaプラットフォームで使われる  

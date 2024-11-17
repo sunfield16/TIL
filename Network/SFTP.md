@@ -1,5 +1,5 @@
-https://ja.wikipedia.org/wiki/SSH_File_Transfer_Protocol  
-https://dev.classmethod.jp/articles/what-sftp/
+<https://ja.wikipedia.org/wiki/SSH_File_Transfer_Protocol>  
+<https://dev.classmethod.jp/articles/what-sftp/>
 
 `SSH File Transfer Protocol`の略で、[[SSH]]を利用して  
 サーバーとのファイル転送・管理を行うためのプロトコル。

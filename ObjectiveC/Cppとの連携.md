@@ -16,7 +16,7 @@ int indexCPP = static_cast<int>(i);
 ## クロージャーを使う場合の注意
 クロージャーで変数をキャプチャするとき、  
 実体で渡さないと問題が起きるケースがある。
-https://qiita.com/1234224576/items/7d26b98d5731a8e7af93
+<https://qiita.com/1234224576/items/7d26b98d5731a8e7af93>
 ```objective-c++
 void HogeObjCPP::func(const std::string& hogeId)
 {

@@ -17,7 +17,7 @@ HTTPSによるAPIアクセスが可能で、以下の3つによって構成さ�
 
 例えば、以下のようにするとユーザーのIDに紐づいた「ユーザーノード」を取得する。  
 ```
-https://graph.facebook.com/{USER-ID}
+<https://graph.facebook.com/{USER-ID}>
 ```
 
 ### エッジ
@@ -26,7 +26,7 @@ https://graph.facebook.com/{USER-ID}
 主にあるオブジェクトに紐づくデータのリストを取得する。  
 例えば、以下のAPIは指定のIDのユーザーがアップロードした写真の一覧を取得する。
 ```
-https://graph.facebook.com/{USER-ID}/photos
+<https://graph.facebook.com/{USER-ID}/photos>
 ```
 
 ノードとエッジは合わせて「エンドポイント」とも呼ばれる。
@@ -39,5 +39,5 @@ https://graph.facebook.com/{USER-ID}/photos
 例えば、以下のようにするとユーザーノードに入っている  
 ID・ユーザー名・メールアドレス・プロフィール画像だけを取得できる。
 ```
-https://graph.facebook.com/{USER-ID}?fields=id,name,email,picture
+<https://graph.facebook.com/{USER-ID}?fields=id,name,email,picture>
 ```

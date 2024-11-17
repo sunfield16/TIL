@@ -24,7 +24,7 @@ Extensionで指定しておくと追加でダウンロードできる。
 テーブルで日付を扱う場合、別のExtensionである`DateTime`も  
 一緒にダウンロードする必要がある模様。
 
-https://datatables.net/forums/discussion/76107/searchbuilder-requires-datetime-when-used-with-dates
+<https://datatables.net/forums/discussion/76107/searchbuilder-requires-datetime-when-used-with-dates>
 
 ## 基本の使い方
 一般的なテーブル内検索機能を追加するだけであれば、初期化時に以下を指定するだけでOK。

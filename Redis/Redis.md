@@ -1,5 +1,5 @@
-https://redis.io/  
-https://github.com/redis/redis
+<https://redis.io/>  
+<https://github.com/redis/redis>
 
 インメモリで動作するNoSQLデータベースの1つ。
 インメモリのため高速な読み書きが可能で、キャッシュ機構や  
@@ -22,8 +22,8 @@ https://github.com/redis/redis
 * ベクターデータベースなどもサポートしていて、ドキュメントやWikiなどの検索にも強い
 
 ## vs Memcached
-https://zenn.dev/marshmallon/articles/27e279e41a98d6  
-https://yakst.com/ja/posts/3243
+<https://zenn.dev/marshmallon/articles/27e279e41a98d6>  
+<https://yakst.com/ja/posts/3243>
 
 似たような機能を持つデータベースに`Memcached`があるが、  
 比較するとRedisは以下の点で異なる。

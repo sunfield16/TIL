@@ -1,5 +1,5 @@
 ## fieldset
-https://developer.mozilla.org/ja/docs/Web/HTML/Element/fieldset
+<https://developer.mozilla.org/ja/docs/Web/HTML/Element/fieldset>
 
 `form`内の要素をまとめてグループ化するのに使われる。  
 `label`などに似てるが、こっちはブロック要素。

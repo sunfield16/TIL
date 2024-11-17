@@ -1,5 +1,5 @@
 ## figure
-https://developer.mozilla.org/ja/docs/Web/HTML/Element/figure
+<https://developer.mozilla.org/ja/docs/Web/HTML/Element/figure>
 
 画像や図表など1つで自己完結する要素を表す。  
 本文の流れから参照されるが、付録などに移動されても問題ないものに使うイメージ。

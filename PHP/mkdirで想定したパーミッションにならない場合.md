@@ -47,5 +47,5 @@ mkdir(__DIR__."/hoge", 0777);
 ```
 
 ## 参考
-https://www.php.net/manual/ja/function.mkdir.php  
-https://nodoame.net/archives/5400
+<https://www.php.net/manual/ja/function.mkdir.php>  
+<https://nodoame.net/archives/5400>

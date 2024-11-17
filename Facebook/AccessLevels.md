@@ -26,5 +26,5 @@ APIエンドポイントへのアクセスをテストする時に使う。
 [[Business|ビジネス認証]]が必要になる模様。
 
 ## 参考
-https://developers.facebook.com/docs/graph-api/overview/access-levels  
-https://developers.facebook.com/docs/development/release/business-verification
+<https://developers.facebook.com/docs/graph-api/overview/access-levels>  
+<https://developers.facebook.com/docs/development/release/business-verification>

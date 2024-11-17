@@ -1,6 +1,6 @@
-https://httpd.apache.org/docs/2.4/ja/howto/htaccess.html  
-https://qiita.com/sanogemaru/items/7e5bd6e8dc9b04c9978e  
-https://www.kagoya.jp/howto/it-glossary/web/htaccess/
+<https://httpd.apache.org/docs/2.4/ja/howto/htaccess.html>  
+<https://qiita.com/sanogemaru/items/7e5bd6e8dc9b04c9978e>  
+<https://www.kagoya.jp/howto/it-glossary/web/htaccess/>
 
 [[Apache]]の環境で使用可能な、サーバー設定用のファイル。  
 （ファイル名は`.htaccess`のように頭に`.`をつける）

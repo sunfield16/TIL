@@ -10,7 +10,7 @@ id:password
 ```
 
 ## `.htpasswd`の作成
-https://analyzegear.co.jp/blog/1881
+<https://analyzegear.co.jp/blog/1881>
 
 生成するWebサービスがいくつかあるほか、  
 `htpasswd`コマンドで作成できる。（Macにもある）

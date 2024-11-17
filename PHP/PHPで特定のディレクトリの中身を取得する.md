@@ -23,6 +23,6 @@ Iteratorクラスとforeachを利用する形。
 シェルを使う都合でlinux限定。また、インジェクションに注意が必要
 
 ## 参考
-https://blog.ver001.com/php-glob-opendir-comparison/  
-https://qiita.com/fallout/items/1f8a9bd044b09b1b3d66  
-https://www.php.net/manual/ja/class.recursivedirectoryiterator.php
+<https://blog.ver001.com/php-glob-opendir-comparison/>  
+<https://qiita.com/fallout/items/1f8a9bd044b09b1b3d66>  
+<https://www.php.net/manual/ja/class.recursivedirectoryiterator.php>

@@ -3,7 +3,7 @@ scpは正確にはプロトコルの1つ。
 
 現在は非推奨であるともされており、rsyncや[[sftp]]などへ置き換えるべきとの話もある。  
 RedHatでは非推奨になっている模様。  
-https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux/9/html/9.2_release_notes/deprecated-functionality-security
+<https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux/9/html/9.2_release_notes/deprecated-functionality-security>
 
 ## 基本の使い方
 ```bash
@@ -20,6 +20,6 @@ scp "hogehoge.zip" "fugafuga@000.000.000.000:/path/to/dst/"
 ```
 
 ## 参考
-https://ja.wikipedia.org/wiki/Secure_copy  
-https://qiita.com/chihiro/items/142ebe6980a498b5d4a7  
-https://qiita.com/tomoyk/items/bf18eec969486b6fc3c4
+<https://ja.wikipedia.org/wiki/Secure_copy>  
+<https://qiita.com/chihiro/items/142ebe6980a498b5d4a7>  
+<https://qiita.com/tomoyk/items/bf18eec969486b6fc3c4>

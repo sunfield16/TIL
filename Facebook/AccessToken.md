@@ -27,4 +27,4 @@ Facebookのアプリのダッシュボードから確認できるトークン。
 開発者がアプリ内に設定情報として追加しておく必要がある。
 
 ## 参考
-https://developers.facebook.com/docs/facebook-login/guides/access-tokens
+<https://developers.facebook.com/docs/facebook-login/guides/access-tokens>

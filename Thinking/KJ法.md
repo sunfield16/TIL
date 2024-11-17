@@ -1,6 +1,6 @@
-https://ja.wikipedia.org/wiki/KJ%E6%B3%95  
-https://qiita.com/YutaManaka/items/59e549073f7bff792d48  
-https://biz.moneyforward.com/payroll/basic/62294/
+<https://ja.wikipedia.org/wiki/KJ%E6%B3%95>  
+<https://qiita.com/YutaManaka/items/59e549073f7bff792d48>  
+<https://biz.moneyforward.com/payroll/basic/62294/>
 
 カードや付箋を使って情報やアイデアの整理を行う手法。  
 考案者のイニシャルにちなんで名付けられた。

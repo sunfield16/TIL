@@ -40,5 +40,5 @@ public class HogeCharacter : MonoBehaviour
 ```
 
 ## 参考
-https://note.com/citronworld/n/n47965ddec2ec  
-https://docs.unity3d.com/ja/2018.4/Manual/class-ScriptableObject.html
+<https://note.com/citronworld/n/n47965ddec2ec>  
+<https://docs.unity3d.com/ja/2018.4/Manual/class-ScriptableObject.html>

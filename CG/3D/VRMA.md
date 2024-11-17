@@ -1,5 +1,5 @@
-https://vrm.dev/vrma/  
-https://gamemakers.jp/article/2024_02_22_61438/
+<https://vrm.dev/vrma/>  
+<https://gamemakers.jp/article/2024_02_22_61438/>
 
 `VRM Animation`の略で、[[VRM]]で定義された人型モデルのアニメーションを扱うフォーマット。  
 これにより、どのVRMでも**アニメーションを共有できる**。

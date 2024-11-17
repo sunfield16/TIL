@@ -44,7 +44,7 @@ dependencies {
 }
 ```
 
-参考:<https://developer.android.com/jetpack/androidx/releases/work#declaring_dependencies>
+参考:<<https://developer.android.com/jetpack/androidx/releases/work#declaring_dependencies>>
 
 ### Workerを作る
 `Worker`は、実際に実行したい内容を表現する。  

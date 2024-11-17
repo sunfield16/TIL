@@ -33,7 +33,7 @@ git管理でもいいしwikiにまとめる形でもいい。
   - もし既にADR作成済みのものに後から変更などあったとしても、再利用はしない
 
 ## 参考
-https://github.com/joelparkerhenderson/architecture-decision-record?tab=readme-ov-file  
-https://engineering.nifty.co.jp/blog/23151  
-https://engineering.dena.com/blog/2023/12/junior-engineer-enablement/  
-https://blog.studysapuri.jp/entry/architecture_decision_records
+<https://github.com/joelparkerhenderson/architecture-decision-record?tab=readme-ov-file>  
+<https://engineering.nifty.co.jp/blog/23151>  
+<https://engineering.dena.com/blog/2023/12/junior-engineer-enablement/>  
+<https://blog.studysapuri.jp/entry/architecture_decision_records>

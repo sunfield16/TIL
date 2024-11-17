@@ -42,5 +42,5 @@
 * 商品の説明文
 
 ## 参考
-https://qiita.com/pyon_kiti_jp/items/c5148ec26b5bb00c200e  
-https://go.chatwork.com/ja/column/efficient/efficient-447.html#efficient-447_4
+<https://qiita.com/pyon_kiti_jp/items/c5148ec26b5bb00c200e>  
+<https://go.chatwork.com/ja/column/efficient/efficient-447.html#efficient-447_4>

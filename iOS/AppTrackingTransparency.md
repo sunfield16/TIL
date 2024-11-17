@@ -1,6 +1,6 @@
 ## 参考
 iOS14でのIDFA取得  
-https://qiita.com/yofuru/items/213b88b85553631204e4
+<https://qiita.com/yofuru/items/213b88b85553631204e4>
 
 ## AppTrackingTransparency
 AppTrackingTransparencyは、広告目的によるユーザーの端末データ(IDFA)取得の許可を  

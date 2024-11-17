@@ -9,5 +9,5 @@ SSLに存在していた脆弱性が修正されている。
 2022年の最新バージョンは`TLS1.3`となっている。
 
 ## 参考
-https://developer.mozilla.org/ja/docs/Glossary/TLS  
-https://knowledge.sakura.ad.jp/21468/
+<https://developer.mozilla.org/ja/docs/Glossary/TLS>  
+<https://knowledge.sakura.ad.jp/21468/>

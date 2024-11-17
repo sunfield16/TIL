@@ -1,5 +1,5 @@
 ## 参考
-https://developer.apple.com/jp/documentation/storekit/in-app_purchase/validating_receipts_with_the_app_store/
+<https://developer.apple.com/jp/documentation/storekit/in-app_purchase/validating_receipts_with_the_app_store/>
 
 ## Receipt
 Appleの証明書で署名された、課金アイテム購入情報を扱う暗号化ファイル。  

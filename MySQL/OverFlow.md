@@ -18,4 +18,4 @@ select 9223372036854775807 + 1
 
 ## 参考資料
 11.2.6 範囲外およびオーバーフローの処理  
-https://dev.mysql.com/doc/refman/5.6/ja/out-of-range-and-overflow.html
+<https://dev.mysql.com/doc/refman/5.6/ja/out-of-range-and-overflow.html>

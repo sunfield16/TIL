@@ -4,7 +4,7 @@ Unityで開発をしていると出くわしがちな
 
 # 参考資料
 アンチパターンから学ぶUnityの使い方  
-https://learning.unity3d.jp/4159/
+<https://learning.unity3d.jp/4159/>
 
 # Public変数
 ## 問題点

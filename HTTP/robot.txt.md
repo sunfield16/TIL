@@ -1,6 +1,6 @@
-https://developers.google.com/search/docs/crawling-indexing/robots/intro?hl=ja  
-https://developers.google.com/search/docs/crawling-indexing/block-indexing?hl=ja  
-https://gmotech.jp/semlabo/seo/blog/robotstxt_method/
+<https://developers.google.com/search/docs/crawling-indexing/robots/intro?hl=ja>  
+<https://developers.google.com/search/docs/crawling-indexing/block-indexing?hl=ja>  
+<https://gmotech.jp/semlabo/seo/blog/robotstxt_method/>
 
 特定のWebページなどに対する検索エンジンのクローラー巡回を  
 制御するための設定ファイル。  

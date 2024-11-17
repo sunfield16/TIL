@@ -51,6 +51,6 @@ UniRxは有志により制作されたUnity向けライブラリ。
     - オペレータで解決できなさそうなら、`async/await`にした方が簡潔に済むことも多い
 
 ## 参考
-https://qiita.com/toRisouP/items/2f1643e344c741dd94f8  
-https://qiita.com/toRisouP/items/af7d32846ab99f493d92  
+<https://qiita.com/toRisouP/items/2f1643e344c741dd94f8>  
+<https://qiita.com/toRisouP/items/af7d32846ab99f493d92>  
 （ちょっと古くなってしまった記事もあるが、基礎の概念とかはあまり変わってないはず）

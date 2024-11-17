@@ -35,7 +35,7 @@ buildscript {
 AndroidGradleプラグインを使うにはGradleも一定バージョン以上必要になるため、  
 それぞれの対応に注意する。  
 （対応表は公式に記載あり）  
-https://developer.android.com/studio/releases/gradle-plugin?hl=ja#updating-gradle
+<https://developer.android.com/studio/releases/gradle-plugin?hl=ja#updating-gradle>
 
 ## AndroidStudioから更新する
 AndroidStudioからでもGradleバージョンは更新できる。

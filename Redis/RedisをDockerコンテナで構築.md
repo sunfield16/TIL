@@ -1,4 +1,4 @@
-https://hub.docker.com/_/redis
+<https://hub.docker.com/_/redis>
 
 公式のDockerイメージがあるのでそれを活用できる。  
 ページ内に導入や使い方の記載もあるので始めやすい。
@@ -6,7 +6,7 @@ https://hub.docker.com/_/redis
 FROM redis:7.2.5-alpine
 ```
 
-https://kinsta.com/jp/blog/redis-docker/  
+<https://kinsta.com/jp/blog/redis-docker/>  
 この記事では、脆弱性の確認のしやすさやアプリとの切り離しの容易さから  
 DockerとRedisの相性が良いことを伝えている。
 

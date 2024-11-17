@@ -1,6 +1,6 @@
 ## 参考
-https://goryugo.com/20201210/obsidian-lyt/  
-https://minerva.mamansoft.net/%F0%9F%93%97Productivity%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%A7%E5%88%87%E3%81%AA100%E3%81%AE%E3%81%93%E3%81%A8/%F0%9F%93%97PKM%E3%81%A7%E6%95%B0%E5%B9%B4%E5%85%88%E3%81%AE%E8%87%AA%E5%88%86%E3%81%AB%E5%B7%AE%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B
+<https://goryugo.com/20201210/obsidian-lyt/>  
+<https://minerva.mamansoft.net/%F0%9F%93%97Productivity%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%A7%E5%88%87%E3%81%AA100%E3%81%AE%E3%81%93%E3%81%A8/%F0%9F%93%97PKM%E3%81%A7%E6%95%B0%E5%B9%B4%E5%85%88%E3%81%AE%E8%87%AA%E5%88%86%E3%81%AB%E5%B7%AE%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B>
 
 ## Zettelkasten
 ノートの取り方で使われる手法の1つ。  

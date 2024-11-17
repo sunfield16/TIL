@@ -22,4 +22,4 @@ split -n l/3 hoge.txt
 ```
 
 ## 参考
-https://qiita.com/b-mente/items/0a57e65687d67b4ac582
+<https://qiita.com/b-mente/items/0a57e65687d67b4ac582>

@@ -1,5 +1,5 @@
 ## 参考
-https://qiita.com/devneko/items/b9d8c734099f5e2b510c
+<https://qiita.com/devneko/items/b9d8c734099f5e2b510c>
 
 ## CUPID
 SOLID原則を代替する設計原則。  

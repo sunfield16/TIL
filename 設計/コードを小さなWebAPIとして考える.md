@@ -1,4 +1,4 @@
-https://qiita.com/fushirakura/items/0db79bbf63784336f562
+<https://qiita.com/fushirakura/items/0db79bbf63784336f562>
 
 特にクラスを設計する時、「これはWebAPIみたいなもん」と思って  
 コーディングしていくとそれぞれのメソッドがシンプルにまとまりやすくなる。

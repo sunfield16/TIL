@@ -1,4 +1,4 @@
-https://flet.dev/
+<https://flet.dev/>
 
 PythonのGUIアプリケーションフレームワーク。  
 以下のような特徴を持つ。

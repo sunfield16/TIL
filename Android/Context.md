@@ -27,6 +27,6 @@ ActivityやApplicationクラスはこれを継承している。
 アクティビティなどの`getApplicationContext()`で参照できる。
 
 ## 参考
-https://developer.android.com/reference/android/content/Context  
-https://qiita.com/tkmd35/items/e6abeed6ac68cbac09ed  
-https://zenn.dev/issyu_39/articles/5225144dae22efc162fd
+<https://developer.android.com/reference/android/content/Context>  
+<https://qiita.com/tkmd35/items/e6abeed6ac68cbac09ed>  
+<https://zenn.dev/issyu_39/articles/5225144dae22efc162fd>
