@@ -1,4 +1,4 @@
-[Telnet](/Network/Telnet.md)で接続して諸々確認したい時に使う。  
+[[Telnet]]で接続して諸々確認したい時に使う。  
 以下のようにechoから繋げることでワンライナーにすることが可能。
 ```bash
 (echo "stats"; sleep 0.5s;) | telnet localhost 11211

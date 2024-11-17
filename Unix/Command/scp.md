@@ -1,7 +1,7 @@
 `Secure Copy`の略で、sshを使ってリモートマシンにファイルを転送するコマンド。  
 scpは正確にはプロトコルの1つ。
 
-現在は非推奨であるともされており、rsyncや[sftp](/Unix/Command/sftp.md)などへ置き換えるべきとの話もある。  
+現在は非推奨であるともされており、rsyncや[[sftp]]などへ置き換えるべきとの話もある。  
 RedHatでは非推奨になっている模様。  
 https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux/9/html/9.2_release_notes/deprecated-functionality-security
 

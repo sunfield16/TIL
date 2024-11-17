@@ -1,8 +1,8 @@
 機能（Features）は、アプリがAPIから特定の種類のデータに  
 アクセスできるようにする承認メカニズム。  
 
-[アクセス許可](/Facebook/Permissions.md)とは違いユーザーから要求はできず、  
-[ユーザーのロール](/Facebook/Developer/AppRole.md)や[アプリのモード](/Facebook/Developer/AppMode.md)に応じて  
+[[Permissions|アクセス許可]]とは違いユーザーから要求はできず、  
+[[AppRole|ユーザーのロール]]や[[AppMode|アプリのモード]]に応じて  
 有効・無効が切り替わる。
 
 機能には以下のようなものがある。
