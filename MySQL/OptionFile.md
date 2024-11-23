@@ -1,4 +1,5 @@
-## オプション（構成）ファイル
+<https://dev.mysql.com/doc/refman/8.0/ja/option-files.html>
+
 MySQLでは、起動時に規定のファイルから各種オプション設定を読み取ることができる。  
 普通、オプション設定はMySQLの起動ごとにコマンドで設定しなければならないが、  
 規定のファイルに記載しておけばそれらを勝手に設定してくれる。
@@ -19,25 +20,6 @@ ${HOME}/.mylogin.cnf | ログインパスオプション
 
 ## 設定方法
 `ini`の形式で記載する。
-
-### 設定例
-[公式サイト](<https://dev.mysql.com/doc/refman/5.6/ja/option-files.html)に>  
-上がっている例を記載する。
-
-```ini
-[client]
-port=3306
-socket=/tmp/mysql.sock
-
-[mysqld]
-port=3306
-socket=/tmp/mysql.sock
-key_buffer_size=16M
-max_allowed_packet=8M
-
-[mysqldump]
-quick
-```
 
 ### セクション
 `[]`で、設定のグループである「セクション」を指定する。  
